@@ -162,6 +162,10 @@ To install without source:
 
 or
 
+    $ yarn add rest
+
+or
+
     $ bower install --save rest
 
 or
